@@ -1,8 +1,8 @@
-**Topic:** Face Detection
+# Face Detection
 
-**Group:** Visionary Angels
+## Group: Visionary Angels
 
-**Repository Description: Face Detection Techniques Comparison**
+### Description: Face Detection Techniques Comparison
 
 This repository illustrates implementations of five face detection techniques using different libraries. The goal is to compare the effectiveness of these techniques in spotting faces in images.
 
