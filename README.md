@@ -29,8 +29,6 @@ This repository illustrates implementations of five face detection techniques us
    - Implements face detection using MTCNN, a robust multi-task model.
    - Draws rectangles around detected faces with bounding box coordinates.
 
-Each method is implemented in its own Jupyter cell.
-
 ### File Structure:
 
 - `opencv_haarcascade/`: Contains Haar Cascade classifier XML file for OpenCV Haar Cascade implementation.
